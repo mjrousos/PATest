@@ -1,0 +1,46 @@
+==========
+References
+==========
+MVCApp.Controllers
+Microsoft.AspNetCore.Mvc
+MVCApp
+Microsoft.Extensions.Hosting
+Microsoft.AspNetCore.Hosting
+Microsoft.Extensions.Configuration
+Microsoft.Extensions.DependencyInjection
+Microsoft.AspNetCore.Builder
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: D:\temp\PATest\mvc\MVCApp\MVCApp\MVCApp.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net5.0
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+------------------
+BUILD ERRORS FOR: D:\temp\PATest\mvc\MVCApp\MVCApp\MVCApp.csproj
+------------------
+
+
+
+
